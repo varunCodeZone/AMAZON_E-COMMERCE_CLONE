@@ -31,7 +31,7 @@
 
 ## **📸 Screenshots**
 
-<div align="center"> <img src="images/readmeSS/r1.png" width="48%" alt="Amazon Main Page"> <img src="images/readmeSS/r2.png" width="48%" alt="Checkout Page"> </div>
+<div align="center"> <img src="readmeSS/r1.png" width="48%" alt="Amazon Main Page"> <img src="readmeSS/r2.png" width="48%" alt="Checkout Page"> </div>
 
 
 ## 📂 **Project Structure**
